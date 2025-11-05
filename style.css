@@ -810,6 +810,9 @@ blockquote {
     
     text-align:center;
   }
+.overlay{
+  padding-left: 5px;
+}
 .category{
   font-size: 10px;
   text-align: left;
